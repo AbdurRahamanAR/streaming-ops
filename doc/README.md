@@ -33,9 +33,9 @@ Goals
 
 ![Workflow!](images/workflow.png)
 
-### Full Architecture
+### User Flow
 
-![Jenkins!](images/Jenkins.jpg)
+![User Flow!](images/userflow.jpg)
 
 ## Flow of execution
 
